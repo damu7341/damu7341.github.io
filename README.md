@@ -18,12 +18,12 @@
 **This is my First Project. I am planning to do next I will update soon I do next.**
 
 ## About Me:
-**I am an Enthusiast who is willing to create amazing projects in future.**
+**I am an Enthusiast who is willing to create amazing projects in future.I love doing both hardware,soft ware projects**
 
 
 
-*Built On : 9/10/2026*
+*Built On : 17/10/2026*
 
-*Last Changes Made : 12/10/2026 on 11 :30 AM*
+*Last Changes Made : 19/10/2026 on 1:30 AM*
 
-*For* ***Hack Club Star Dance***
+*For* ***Hack Club Star Dance,also for hack club***

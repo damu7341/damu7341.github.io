@@ -1,6 +1,6 @@
 # My Personal Website:
 
- width="1350" height="499" alt="Capture" src="https://damu7341.github.io/" />
+ width="1350" height="499" alt="Capture" src="https://damu7341.github.io/"
 
 **Welcome to my personal website repository.**
 
@@ -24,6 +24,6 @@
 
 *Built On : 17/10/2026*
 
-*Last Changes Made : 20/10/2026 on 6:40 PM*
+*Last Changes Made : 20/10/2026 on 9:28 PM*
 
 *For* ***Hack Club Star Dance,also for hack club***

@@ -1,6 +1,6 @@
 # My Personal Website:
 
- width="1350" height="499" alt="Capture" src="https://github.com/user-attachments/assets/a92b3042-9ab3-4dcb-9599-4b2336200d9c" />
+ width="1350" height="499" alt="Capture" src="https://damu7341.github.io/" />
 
 **Welcome to my personal website repository.**
 

@@ -15,7 +15,7 @@
 * **GitHub**
 
 ## My Projects:
-**This is my First Project. I am planning to do next I will update soon I do next.**
+**This is my First Project. I DID MY SECOND PROJECT AS RADAR SYSTEM USING ARDUINO.**
 
 ## About Me:
 **I am an Enthusiast who is willing to create amazing projects in future.I love doing both hardware,soft ware projects**

@@ -4,7 +4,7 @@
 
 **Welcome to my personal website repository.**
 
-**This website is built on part of** ***Star Dance Hack Club Challenge***
+***This website is built on part of Star Dance Hack Club Challenge***
 
 ## Look My website here:  
 [***My Site***](https://damu7341.github.io/)

@@ -18,12 +18,4 @@
 **This is my First Project. I DID MY SECOND PROJECT AS "RADAR SYSTEM USING ARDUINO."**
 
 ## About Me:
-**I am an Enthusiast who is willing to create amazing projects in future.I love doing both hardware,soft ware projects**
-
-
-
-*Built On : 17/10/2026*
-
-*Last Changes Made on : 20/10/2026 at 9:34 PM*
-
-*For* ***Hack Club Star Dance,also for hack club***
+**I am an Enthusiast who is willing to create amazing projects in future.I love doing both hardware,soft ware project.

@@ -1,20 +1,14 @@
-/* Base styling for your personal website */
 body {
-    background-color: yellow;   /* Yellow background */
-    color: black;               /* Black text */
-    font-style: italic;         /* Italic font */
-    margin: 0;
-    padding: 0;
+  background-color: white;   /* White background */
+  color: black;              /* Black text */
+  font-style: italic;        /* Italic font */
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
 }
 
-/* Optional: make headers stand out */
-h1, h2, h3 {
-    font-style: italic;
-    color: black;
-}
-
-/* Links */
-a {
-    color: black;
-    text-decoration: underline;
+/* Sections spaced for long scroll */
+section {
+  padding: 60px;
+  border-bottom: 1px solid #ccc;
 }
